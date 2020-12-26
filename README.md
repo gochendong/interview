@@ -1,6 +1,6 @@
 ## kafka
 1. kafka架构
-2. Kafka如何实现消息https://github.com/gochendong/interview/projects幂等？怎么保证消息的可靠性
+2. Kafka如何实现消息幂等？怎么保证消息的可靠性
 3. Kafka和其他MQ的对比
 
 ## redis
